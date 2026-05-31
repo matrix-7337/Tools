@@ -1,3 +1,5 @@
+<img src="animation illustration GIF by ioana sopov.gif" width="1000" height="300">
+
 # 🛠️ CyberSecurity Tools
 
 Tools and utilities developed throughout my cybersecurity learning journey, focused on security operations, system administration, monitoring, automation, and defensive security.
